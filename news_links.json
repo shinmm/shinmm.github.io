@@ -1,0 +1,66 @@
+{
+  "bbc": {
+    "rss": {
+      "business": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "politics": "http://feeds.bbci.co.uk/news/politics/rss.xml",
+      "health": "http://feeds.bbci.co.uk/news/health/rss.xml",
+      "education": "http://feeds.bbci.co.uk/news/education/rss.xml",
+      "science": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "technology": "http://feeds.bbci.co.uk/news/technology/rss.xml",
+      "entertainment": "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"
+    },
+    "homepage": "http://www.bbc.com/"
+  },
+  "cnn": {
+    "rss": {
+      "business": "http://rss.cnn.com/rss/money_latest.rss",
+      "politics": "http://rss.cnn.com/rss/cnn_allpolitics.rss",
+      "health": "http://rss.cnn.com/rss/cnn_health.rss",
+      "technology": "http://rss.cnn.com/rss/cnn_tech.rss",
+      "entertainment": "http://rss.cnn.com/rss/cnn_showbiz.rss"
+    },
+    "homepage": "https://www.cnn.com/"
+    },
+  "buzzfeed": {
+    "rss": {
+      "business": "https://www.buzzfeed.com/business.xml",
+      "politics": "https://www.buzzfeed.com/politics.xml",
+      "health": "https://www.buzzfeed.com/health.xml",
+      "science": "https://www.buzzfeed.com/science.xml",
+      "technology": "https://www.buzzfeed.com/tech.xml",
+      "entertainment": "https://www.buzzfeed.com/tvandmovies.xml"
+    },
+    "homepage": "https://www.buzzfeednews.com/"
+    },
+  "cnbc": {
+    "rss": {
+      "business": "https://www.cnbc.com/id/10001147/device/rss/rss.html",
+      "politics": "https://www.cnbc.com/id/10000113/device/rss/rss.html",
+      "health": "https://www.cnbc.com/id/10000108/device/rss/rss.html",
+      "technology": "https://www.cnbc.com/id/19854910/device/rss/rss.html"
+    },
+    "homepage": "https://www.cnbc.com/"
+    },
+  "huffingtonpost": {
+    "rss": {
+      "business": "https://www.huffpost.com/section/business/feed",
+      "politics": "https://www.huffpost.com/section/politics/feed",
+      "health": "https://www.huffpost.com/section/health/feed",
+      "education": "https://www.huffpost.com/section/education/feed",
+      "science": "https://www.huffpost.com/section/science/feed",
+      "technology": "https://www.huffpost.com/section/technology/feed",
+      "entertainment": "https://www.huffpost.com/dept/entertainment/feed"
+    },
+    "homepage": "https://www.huffpost.com/"
+    },
+  "theguardian": {
+    "rss": {
+      "business": "https://www.theguardian.com/us/business/rss",
+      "politics": "https://www.theguardian.com/us-news/us-politics/rss",
+      "health": "https://www.theguardian.com/lifeandstyle/health-and-wellbeing/rss",
+      "science": "https://www.theguardian.com/science/rss",
+      "technology": "https://www.theguardian.com/us/technology/rss"
+    },
+    "homepage": "https://www.theguardian.com/us"
+    }
+}
